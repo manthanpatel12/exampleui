@@ -1,0 +1,49 @@
+   #loading{
+      width:100%;
+      height: 100vh;
+      background:#fff no-repeat center;
+      background-image: url("/storage/emulated/0/tutorial/Ui/Loading.gif");
+      position: fixed;
+      z-index: 9999;
+      }
+    @media(min-width:768px){
+      html,
+    body,
+    .view {
+      height: 100%;
+      text-transform: capitalize;
+    }
+    .m{
+      margin-top:15px !important;
+      margin-left:30% !important;
+    }
+
+    /* Carousel*/
+    .carousel,
+    .carousel-item,
+    .carousel-item.active {
+      height: 100%;
+    }
+    .carousel-inner {
+      height: 100%;
+    }
+    }
+    *{
+      text-transform: capitalize;
+    }
+    .img{
+      width:100vw !important;
+    }
+    .px{
+      height: 200px;
+    }
+    footer{
+      margin-top:50px;
+      padding:15px;
+    }
+    footer div{
+      margin-top:10px;
+    }
+    .fa{
+      margin-bottom:15px;
+    }
