@@ -2,7 +2,7 @@
       width:100%;
       height: 100vh;
       background:#fff no-repeat center;
-      background-image: url("/storage/emulated/0/tutorial/Ui/Loading.gif");
+      background-image: url("https://manthanpatel12.github.io/exampleui/img/Loading.gif");
       position: fixed;
       z-index: 9999;
       }
